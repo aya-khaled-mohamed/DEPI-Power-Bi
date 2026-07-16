@@ -23,6 +23,55 @@ By analyzing the comprehensive Synthea healthcare dataset, our team built unifie
 
 ---
 
+## 🖼️ Dashboard Showcase (Gallery)
+
+### 📊 Power BI Dashboards
+*Developed utilizing advanced DAX, robust relational modeling, and customized mobile layouts.*
+
+<p align="center">
+  <img src="Power%20Bi%20Dashboards/1.jpg" width="48%" />
+  <img src="Power%20Bi%20Dashboards/2.jpg" width="48%" />
+</p>
+<p align="center">
+  <img src="Power%20Bi%20Dashboards/3.jpg" width="48%" />
+  <img src="Power%20Bi%20Dashboards/4.jpg" width="48%" />
+</p>
+<p align="center">
+  <img src="Power%20Bi%20Dashboards/5.jpg" width="48%" />
+  <img src="Power%20Bi%20Dashboards/6.jpg" width="48%" />
+</p>
+<p align="center">
+  <img src="Power%20Bi%20Dashboards/7.jpg" width="48%" />
+  <img src="Power%20Bi%20Dashboards/8.jpg" width="48%" />
+</p>
+<p align="center">
+  <img src="Power%20Bi%20Dashboards/9.jpg" width="48%" />
+  <img src="Power%20Bi%20Dashboards/10.jpg" width="48%" />
+</p>
+
+---
+
+### 📈 Tableau Dashboards
+*Highly interactive clinical explorations and tracking panels.*
+
+<p align="center">
+  <img src="Tableau%20Dashboards/1.jpg" width="31%" />
+  <img src="Tableau%20Dashboards/2.jpg" width="31%" />
+  <img src="Tableau%20Dashboards/3.jpg" width="31%" />
+</p>
+
+---
+
+### 📊 Excel Dashboards & Interactive Reports
+*Pivot-driven medical trend analysis and financial overviews.*
+
+<p align="center">
+  <img src="Excel%20Dashboards/1.jpg" width="48%" />
+  <img src="Excel%20Dashboards/2.jpg" width="48%" />
+</p>
+
+---
+
 ## 🛠️ Project Deliverables & Workspace Links
 
 To facilitate a seamless evaluation by the judging panel, all relevant datasets, project files, and dynamic dashboards have been structured and made accessible through the following links:
@@ -39,9 +88,9 @@ To facilitate a seamless evaluation by the judging panel, all relevant datasets,
 
 ## 👥 Structured Roles & Work Breakdown (WBS)
 
-We pride ourselves on high operational efficiency. Our team established a clear division of labor, ensuring that data cleaning, relational modeling, measures engineering, and dashboard creation were divided based on clinical themes.
+We pride ourselves on high operational efficiency. Our team established a clear division of labor, ensuring that data cleaning, relational modeling, measures engineering, and dashboard creation were divided based on clinical themes.[cite: 4]
 
-> 📝 **Detailed Roles Document:** The complete project management breakdown is committed to this repository as **[`Project_Task_Assignment_and_Roles.pdf`](./Project_Task_Assignment_and_Roles.pdf)**.
+> 📝 **Detailed Roles Document:** The complete project management breakdown is committed to this repository as **[`Project_Task_Assignment_and_Roles.pdf`](./Project_Task_Assignment_and_Roles.pdf)**.[cite: 4]
 
 ### 🏛️ Summary Responsibility Matrix
 
@@ -59,26 +108,24 @@ We pride ourselves on high operational efficiency. Our team established a clear 
 ## 🚀 Technical Pipeline & Implementation
 
 1. **Database Connection & SQL Extraction:**
-   * Programmatic, secure database connections were implemented to securely extract and load raw, multi-table relational schemas directly from a centralized SQL Server.
+   * Programmatic, secure database connections were implemented to securely extract and load raw, multi-table relational schemas directly from a centralized SQL Server.[cite: 4]
 2. **Data Cleansing & Transformation:**
    * Executed robust SQL/Power Query scripts to standardize date-time dimensions, clean null categorical inputs, handle missing data points, and segment metrics (e.g., age-binning, blood pressure thresholds).
 3. **Data Modeling:**
-   * Designed and configured a high-performance relational database schema (Star/Snowflake hybrid) mapping fact and dimension tables securely to avoid logical circular dependencies.
+   * Designed and configured a high-performance relational database schema (Star/Snowflake hybrid) mapping fact and dimension tables securely to avoid logical circular dependencies.[cite: 4]
 4. **Measures & Calculations Engineering (DAX & SQL):**
    * Formulated advanced analytical KPIs, cost calculations, time-intelligence trends, and year-over-year metrics to power downstream reporting.
 5. **Dashboard UI/UX and Responsive Design:**
-   * Developed clean, interactive executive interfaces utilizing consistent typography, professional dark/light thematic layouts, and dedicated responsive **Mobile Layouts** for on-the-go viewing.
+   * Developed clean, interactive executive interfaces utilizing consistent typography, professional dark/light thematic layouts, and dedicated responsive **Mobile Layouts** for on-the-go viewing.[cite: 4]
 
 ---
 
 ## 📂 Repository Structure
 
 ```text
-├── Data_Sources/                   # Link to raw and processed Synthea csv files
-├── Power_BI_Dashboards/            # Active .pbix / .pbit report templates
-├── Tableau_Dashboards/             # Professional packaged workbooks (.twbx)
-├── Excel_Models/                   # Cleaned data models and Excel dashboards
-├── Documentation/
-│   ├── Project_Task_Assignment_and_Roles.pdf  # Formal team role distribution file
-│   └── Presentation/               # Project presentation slides
+├── Excel Dashboards/               # Cleaned data models and Excel dashboards & Images (1-2.jpg)
+├── Icons/                          # Project UI/UX Icons and assets
+├── Power Bi Dashboards/            # Active .pbix / .pbit templates & Dashboard Images (1-10.jpg)
+├── Tableau Dashboards/             # Professional packaged workbooks (.twbx) & Images (1-3.jpg)
+├── Project_Task_Assignment_and_Roles.pdf  # Formal team role distribution file
 └── README.md                       # Repository overview documentation
