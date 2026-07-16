@@ -81,7 +81,7 @@ To facilitate a seamless evaluation by the judging panel, all relevant datasets,
 | **📁 Source Raw Data (Synthea)** | [Access Raw Datasets](https://drive.google.com/drive/folders/1Bm2mq4kArjkeyaq3nCAdz4nu_zP606Iv?usp=drive_link) |
 | **📊 Power BI Dashboards (.pbix / .pbit)** | [Access Power BI Models](https://drive.google.com/drive/folders/1ayGztq89UvR-pNuhLLKW04Adgbd0NqyR?usp=drive_link) |
 | **📈 Tableau Workbooks (.twbx)** | [Access Tableau Dashboards](https://drive.google.com/drive/folders/1sNSv_o9ahpecIxWtatxbnB2yu6d7eg8m?usp=drive_link) |
-| ** Excel Interactive Sheets** | [Access Excel Workbooks](https://drive.google.com/drive/folders/1447ICNb-jjYkeneJByvO3Xttvvqoz1ru?usp=drive_link) |
+| **📊Excel Interactive Sheets** | [Access Excel Workbooks](https://drive.google.com/drive/folders/1447ICNb-jjYkeneJByvO3Xttvvqoz1ru?usp=drive_link) |
 | **🖥️ Executive Presentation** | [Access Presentation Slides](https://drive.google.com/drive/folders/1u7ZMvyYYuL0XzFuQFjAsmubbfIsdsC5y?usp=drive_link) |
 
 ---
@@ -98,9 +98,9 @@ We pride ourselves on high operational efficiency. Our team established a clear 
 | :--- | :--- | :--- | :--- |
 | **1. Asmaa Tarek** | Encounters, Conditions | Encounters, Conditions | Power BI: Encounters, Conditions <br>Tableau: Main Dashboard |
 | **2. Aya Ayman** | Medication, Immunization | Medication, Immunization | Power BI: Medication Analytics, Vaccine Insights <br>Tableau: Dashboard 1 & 2 |
-| **3. Ghada** | Allergies, Careplans <br>*+ Data Modeling* | Allergies, Careplans | Power BI: Allergies, Careplans <br>Excel: Main Reports |
+| **3. Ghada Reiad** | Allergies, Careplans <br>*+ Data Modeling* | Allergies, Careplans | Power BI: Allergies, Careplans <br>Excel: Main Reports |
 | **4. Alaa Salama** | Conditions, Encounters | Observations | Power BI: Main Analytics <br>Excel: Interactive Sheets |
-| **5. Habiba** | Procedures | Procedures (DAX) | Power BI: Procedures Dashboard |
+| **5. Habiba Osama** | Procedures | Procedures (DAX) | Power BI: Procedures Dashboard |
 | **6. Aya Khaled** <br>*(Project Lead)* | Patients <br>*+ SQL Import & Init* | Patients | Power BI: Patient Demographics <br>**+ Responsive Mobile Layout** |
 
 ---
